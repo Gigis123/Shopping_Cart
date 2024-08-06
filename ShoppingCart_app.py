@@ -1,17 +1,4 @@
 '''
-=============================================================
-Graded Challenge 1 (app)
-
-Nama : Achmad Abdillah Ghifari
-Batch : BSD-006
-
-Program ini dibuat untuk membuat user dapat mengelola barang yang ingin mereka beli di keranjang. 
-User dapat mengelola keranjang dengan menambahkan, menghapus, melihat, dan mengecek total belanjaan
-mereka sebelum keluar dari program
-============================================================
-'''
-
-'''
 kelas ini ditunjukan untuk mengidentifikasi barang yang akan dibeli oleh user dengan nama dan harga
 barang yang user akan beli. Fungsi init dipakai untuk men-dictionarykan nama dan harga dan fungsi str 
 untuk memberi tahu bahwa code tersebut adalah string
