@@ -5,8 +5,8 @@ This project provides a simple command using python for managing a shopping cart
 The objective of this project is to help a shop to create a simple shooping cart in order to help the shop users to be able to manage their shopping carts and calculate their purchases done in the shop.
 
 # Methods Used
-Object-Oriented Programming (OOP)
-Python
+- Object-Oriented Programming (OOP)
+- Python
 
 # Project Description
 This program was created to enable users to manage the items they want to buy in their basket. Users can manage baskets by adding, deleting, viewing and checking shopping totals before leaving the program
