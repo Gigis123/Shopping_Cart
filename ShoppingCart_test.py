@@ -1,17 +1,4 @@
 '''
-=============================================================
-Graded Challenge 1 (test)
-
-Nama : Achmad Abdillah Ghifari
-Batch : BSD-006
-
-Program ini dibuat untuk mengetes program yang dibuat sebelumnya. Program ini akan mengecek
-dengan cara menambahkan, menghapus, dan mentotal barang yang telah dipilih. jika hasil dari tes
-adalah 'ok', artinya program dapat berjalan dengan lancar
-============================================================
-'''
-
-'''
 kita mengimport unittest dan file app dari tugas sebelumnya menggunakan command ini 
 '''
 import unittest
